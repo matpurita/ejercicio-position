@@ -1,0 +1,30 @@
+.menu-fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: aqua;
+}
+
+.nav {
+  display: inline-block;
+  position: relative;
+  left: 50px;
+}
+
+.nav-menu {
+  position: relative;
+  display: inline-block;
+}
+
+.nav-title {
+  left: 50px;
+  display: inline-block;
+  position: relative;
+  margin-right: 10px;
+}
+
+.nav-menu li {
+  display: inline;
+  margin-right: 10px;
+}
